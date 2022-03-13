@@ -1,0 +1,148 @@
+/* Cores:
+    #B0A0DF
+    #3C00F0
+    #FFE800
+    #E0D882
+    #DEDAB6
+*/
+
+body {
+    text-align: center;
+    font-family: 'Anton';
+    margin: 0;
+}
+
+h1 {
+    color: #09002b;
+}
+
+a {
+    color: #09002b;
+    text-decoration: none;
+}
+
+/* Top container */
+#top-container {
+    background-color: #fff800;
+    padding: 7% 15% 0;
+}
+
+#futeboso-text {
+    font-size: 7rem;
+    text-shadow: 3px 3px 0 #ece7ff;
+}
+
+#redes-lista {
+    padding: 0;
+}
+
+.redes-sociais {
+    list-style: none;
+    font-size: 1.2rem;
+    margin: 5%;
+}
+
+.btn-redes:hover {
+    color: #18006d;
+}
+
+.redes-sociais:hover {
+    color: #ffffff;
+}
+
+.fa-brands {
+    font-size: 2rem;
+}
+
+#btn-yt {
+    background-color: red;
+    border-radius: 10px;
+    border-style: none;
+}
+
+.btn-hover {
+    width: 3rem;
+}
+
+.fa-youtube {
+    color: white;
+}
+
+.inscrever-se {
+    position: relative;
+    bottom: 4px;
+    color: white;
+}
+
+#bosinho {
+    width: 20rem;
+    transition: 0.5s;
+}
+
+#bosinho:hover {
+    opacity: 95%;
+    transition: 0.5s;
+}
+
+/* Features */
+
+#features {
+    background-color: white;
+    font-family: 'Sansita Swashed';
+    font-weight: bold;
+    padding: 7% 15%;
+}
+
+.fa-solid {
+    font-size: 4rem;
+    margin: 0 0 10%;
+    color: #09002b;
+    transition: 1s;
+}
+
+.fa-solid:hover {
+    position: relative;
+    bottom: 5px;
+    color: #10004b;
+    font-size: 5rem;
+    transition: 1s;
+}
+
+/* Videos */
+
+#videos {
+    padding: 7% 15%;
+    background-color: #fff800;
+}
+
+.carousel-control-prev-icon {
+    background-image: url("https://cdn-icons.flaticon.com/png/512/3634/premium/3634104.png?token=exp=1647126275~hmac=01f5ff075a4dfd23d20d082cf8ea5715");
+}
+
+.carousel-control-next-icon {
+    background-image: url("https://cdn-icons.flaticon.com/png/512/3634/premium/3634295.png?token=exp=1647126433~hmac=03e4c23747b130e298e59a81e748c1a8");
+}
+
+/* Biografia */
+
+#biografia {
+    padding: 7% 15%;
+}
+
+/* Footer */
+
+#footer {
+    padding: 7% 15% 3%;
+    background-color: #fff800;
+}
+
+.fa-footer {
+    color: #09002b;
+    margin: 0 1% 3%;
+    font-size: 1.5rem;
+}
+
+#cpr-futeboso {
+    color: #09002b;
+    font-size: 0.8rem;
+}
